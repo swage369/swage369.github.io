@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://snap-photos.s3.amazonaws.com/img-thumbs/960w/37SH2COT22.jpg");
+  background-size: cover;
+  height: 100vh;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background2:lightblue;
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+}
+
+br {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 25px
+}
+
+h3 {
+  font-size: 25px
+}
+
+h4 {
+  font-size: 25px
+}
+
+h5 {
+  font-size: 25px
+}
+
+h6 {
+  font-size: 25px
+}
+
+h7 {
+  font-size: 25px
+}
+
+h8 {
+  font-size: 25px
+}
+
+h9 {
+  font-size: 25px
+}
+
+h10 {
+  font-size: 25px
+}
